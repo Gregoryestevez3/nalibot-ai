@@ -17,7 +17,7 @@
     },
     "ios": {
       "appleTeamId": "QQ57RJ5UTD",
-      "bundleIdentifier": "app.bacon.expoai",
+      "bundleIdentifier": "com.gtechinnovation.nalibotai",
       "icon": {
         "light": "./assets/icons/bouquet.png",
         "dark": "./assets/icons/floral.png"
@@ -27,7 +27,7 @@
         "ITSAppUsesNonExemptEncryption": false
       },
       "entitlements": {
-        "com.apple.security.application-groups": ["group.app.bacon.expoai"]
+        "com.apple.security.application-groups": ["com.gtechinnovation.nalibotai"]
       },
       "associatedDomains": [
         "applinks:exai.expo.app",
