@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "Expo AI",
-    "slug": "expo-ai",
-    "owner": "bacon",
+    "name": "Nalibot AI",
+    "slug": "nalibot-ai",
+    "owner": "gtechinnovation",
     "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icons/bouquet.png",
-    "scheme": "expoai",
+    "scheme": "nalibotai",
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#000",
     "newArchEnabled": true,
@@ -75,7 +75,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "95d2c7db-33a6-4055-8297-0198c13734ca"
+        "projectId": "4e514123-30f0-4d98-9616-90394e48bdb0"
       }
     }
   }
